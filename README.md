@@ -4,7 +4,7 @@ This repository contains a hobby project focused on data analysis and machine le
 
 ## Dataset
 
-The Prima Indian Diabetes dataset used in this project can be found on my [GitHub repository](https://github.com/MTank76/Diabetes-Prediction-System/blob/main/diabetes.csv). The dataset includes various parameters such as Body Mass Index (BMI), insulin levels, and others to predict the presence of diabetes in individuals.
+The Prima Indian Diabetes dataset used in this project can be found on my [GitHub repository](https://github.com/MTank76/Diabetes-Prediction-System). The dataset includes various parameters such as Body Mass Index (BMI), insulin levels, and others to predict the presence of diabetes in individuals.
 
 ## Project Objective
 
